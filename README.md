@@ -2,7 +2,7 @@
 
 # Presento mi proyecto de la siguiente manera
 
-La realizacion de este proyecto tubo muchos contratiempos, ademas de que las herramientas proporcionadas no funcionaron como debieron.
+La realizacion de este proyecto tubo muchos contratiempos, ademas de que las herramientas proporcionadas no funcionaron como debieron, recurrí a añadir librerias para que el programa terminara de funcionar como quería.
 
 # Codigo
 

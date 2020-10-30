@@ -1,8 +1,8 @@
 # ProyectoFinal
 
-# La realizacion de este proyecto tubo muchos contratiempos, ademas de que las herramientas proporcionadas no funcionaron como debieron.
+# Presento mi proyecto de la siguiente manera
 
-Presento mi proyecto de la siguiente manera
+La realizacion de este proyecto tubo muchos contratiempos, ademas de que las herramientas proporcionadas no funcionaron como debieron.
 
 # Codigo
 
